@@ -20,7 +20,7 @@ This project shows how the mobile bindings created from [Aries-Framework-Go](htt
 
 ## 3. Import the library
 
-Follow the steps [here](https://github.com/hyperledger/aries-framework-go/tree/master/cmd/aries-agent-mobile).
+Follow the steps [here](https://github.com/hyperledger/aries-framework-go/tree/main/cmd/aries-agent-mobile).
 
 ## 3. Build and Run Project
 
